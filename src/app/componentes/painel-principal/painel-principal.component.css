@@ -1,0 +1,53 @@
+.card {
+  max-width: 400px;
+}
+
+mat-card-title{
+    margin-bottom: 1rem;
+}
+
+mat-card-content p{
+    text-align: justify;
+}
+
+mat-card img{
+    width: 23rem;
+    height: 20rem;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+mat-card img:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+
+.span-price{
+    margin: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: red;
+    font-size: large;
+}
+
+mat-card-actions{
+    justify-content: space-between;
+    align-items: center;
+}
+
+mat-card-actions button{
+   width: 100%;
+}
+
+.section-products{
+    padding-top: 2.5rem;
+}
+
+.section-products h1{
+    display: flex;
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+    border-left: 6px solid rgb(39, 79, 139);
+    height: 3rem;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Jogo 1",
+      "descricao": "Descrição do Jogo 1",
+      "foto": "./assets/img/jogo1.PNG",
+      "preco": 200.0
+    },
+    {
+      "id": 2,
+      "titulo": "Jogo 2",
+      "descricao": "Descrição do Jogo 2",
+      "foto": "./assets/img/jogo2.PNG",
+      "preco": 250.0
+    },
+    {
+      "id": 3,
+      "titulo": "Jogo 3",
+      "descricao": "Descrição do Jogo 3",
+      "foto": "./assets/img/jogo3.PNG",
+      "preco": 500.0
+    }
+  ]
+}

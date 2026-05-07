@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "titulo": "Jogo 111",
+      "descricao": "Descrição do Jogo 111",
+      "foto": "./assets/img/jogo1.PNG",
+      "preco": 200,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Jogo 2",
+      "descricao": "Descrição do Jogo 2",
+      "foto": "./assets/img/jogo2.PNG",
+      "preco": 250
+    },
+    {
+      "titulo": "Jogo 3",
+      "descricao": "Descrição do Jogo 3",
+      "foto": "./assets/img/jogo3.PNG",
+      "preco": 500,
+      "id": "3"
+    },
+    {
+      "titulo": "Novo jogo",
+      "descricao": "Descricao do novo jogo",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpIieZ1e1OVNwFgE0oI1s7jZp3kcuheDtOg&s",
+      "preco": 2563.45,
+      "id": "3c99"
+    },
+    {
+      "titulo": "fdsdfgsdfg",
+      "descricao": "sdfgsdfgs",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpIieZ1e1OVNwFgE0oI1s7jZp3kcuheDtOg&s",
+      "preco": 456,
+      "id": "6788"
+    }
+  ]
+}

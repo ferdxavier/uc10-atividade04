@@ -1,0 +1,42 @@
+section{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+
+    max-width: 30rem;
+}
+
+section img{
+    max-height: 20rem;
+
+    max-width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+section p{
+    display: inline;
+    font-weight: bold;
+}
+section span{
+    display: inline-block;
+    width: 20rem;
+  
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  
+    vertical-align: bottom;
+}
+section button{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+mat-dialog-actions{
+    margin: 0px;
+    padding: 0px;
+}
+aside{
+    display: flex;
+    gap: 0.5rem;
+}
