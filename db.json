@@ -25,12 +25,12 @@
       "titulo": "Novo jogo",
       "descricao": "Descricao do novo jogo",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpIieZ1e1OVNwFgE0oI1s7jZp3kcuheDtOg&s",
-      "preco": 2563.45,
+      "preco": 452,
       "id": "3c99"
     },
     {
-      "titulo": "fdsdfgsdfg",
-      "descricao": "sdfgsdfgs",
+      "titulo": "Novo Produto 22",
+      "descricao": "Descrição dele: Novo Produto 22",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpIieZ1e1OVNwFgE0oI1s7jZp3kcuheDtOg&s",
       "preco": 456,
       "id": "6788"

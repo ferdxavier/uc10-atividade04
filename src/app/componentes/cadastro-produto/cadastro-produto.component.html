@@ -1,6 +1,6 @@
 <main>
     <section>
-        <h2>Novo produto</h2>
+        <h2>{{idExistente? "Atualizar o produto": "Novo Cadastro"}}</h2>
         <form class="form" (ngSubmit)="salvarProduto()">
             <mat-form-field class="full-width">
                 <mat-label>Titulo</mat-label>
